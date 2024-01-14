@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and c.
 - 💞️ I’m looking to collaborate on different coding styles.
 - 📫 How to reach me : anirudhakam@gmail.com
-- 😄 Pronouns: Male
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
